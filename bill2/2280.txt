@@ -1,0 +1,25 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 2280
+ Customer  : ram
+ Phone No. : 5431
+ P.Time    : 2020-06-19 08:27:33
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Notebook		1		500
+----------------------------------------
+ Stationary Price:		Rs. 30.0
+ Grocery Price   :		Rs. 500.0
+ Total Tax       :		Rs. 6.5
+----------------------------------------
+ Total Amount    :		Rs. 536.5
+----------------------------------------
+ Received Amount :		Rs. 600
+ Return Amount   :		Rs. 63.5
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************

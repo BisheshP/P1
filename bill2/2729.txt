@@ -1,0 +1,25 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 2729
+ Customer  : rtgsg
+ Phone No. : 78578
+ P.Time    : 2020-06-18 22:00:26
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Marker		1		350
+----------------------------------------
+ Stationary Price:		Rs. 30.0
+ Grocery Price   :		Rs. 350.0
+ Total Tax       :		Rs. 5.0
+----------------------------------------
+ Total Amount    :		Rs. 385.0
+----------------------------------------
+ Received Amount :		Rs. 500
+ Return Amount   :		Rs. 115.0
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************

@@ -1,0 +1,31 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 8793
+ Customer  : hsehsib joshi
+ Phone No. : 9869123003
+ P.Time    : 2020-06-19 08:41:48
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Eraser		1		50
+ Notebook		1		500
+ Geometry Box		1		72
+ Gel Pen		1		220
+ Eraser		1		180
+ Notebook		1		340
+----------------------------------------
+ Stationary Price:		Rs. 80.0
+ Grocery Price   :		Rs. 572.0
+ Drinks Price    :		Rs. 740.0
+ Total Tax       :		Rs. 31.92
+----------------------------------------
+ Total Amount    :		Rs. 1423.92
+----------------------------------------
+ Received Amount :		Rs. 2000
+ Return Amount   :		Rs. 576.08
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************

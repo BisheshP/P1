@@ -1,0 +1,42 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 8948
+ Customer  : Bishesh
+ Phone No. : 9869123003
+ P.Time    : 2020-06-21 22:52:11
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Eraser		1		50
+ Marker		1		50
+ Notebook		1		100
+ Geometry Box		1		450
+ Magic Pencils		1		150
+ Rice		1		2650
+ Bread		1		80
+ Flour		1		350
+ Fish		1		500
+ Sugar		1		72
+ Cheese		1		200
+ Fanta		1		220
+ Real		1		180
+ Limca		1		150
+ Tuborg		1		340
+ Wine		1		2100
+ Redbull		1		110
+----------------------------------------
+ Stationary Price:		Rs. 830.0
+ Grocery Price   :		Rs. 3852.0
+ Drinks Price    :		Rs. 3100.0
+ Total Tax       :		Rs. 173.02
+----------------------------------------
+ Total Amount    :		Rs. 7955.02
+----------------------------------------
+ Received Amount :		Rs. 8000
+ Return Amount   :		Rs. 44.98
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************
